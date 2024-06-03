@@ -1,0 +1,12 @@
+[
+    {
+      "imageFile": "img1.png",
+      "title": "Paisaje de montaña",
+      "message": "Disfruta de la majestuosa vista de las montañas cubiertas de nieve en esta impresionante imagen."
+    },
+    {
+      "imageFile": "img2.png",
+      "title": "Atardecer en la playa",
+      "message": "Relájate con la vista del hermoso atardecer sobre el océano en esta imagen relajante."
+    }
+  ]
